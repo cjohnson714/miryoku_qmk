@@ -2,3 +2,4 @@
 # https://github.com/manna-harbour/miryoku
 
 AUTOCORRECT_ENABLE = yes
+LTO_ENABLE = yes
