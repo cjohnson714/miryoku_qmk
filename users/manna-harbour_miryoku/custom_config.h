@@ -33,3 +33,9 @@ K50, K51, K52, K53,                          K54, K55, K56, K57\
 )
 
 #endif
+
+#define MIRYOKU_LAYER_EXTRA \
+KC_W,              KC_L,              KC_Y,              KC_P,              KC_B,              KC_Z,              KC_F,              KC_O,              KC_U,              KC_QUOT,           \
+LGUI_T(KC_C),      LALT_T(KC_R),      LCTL_T(KC_S),      LSFT_T(KC_T),      KC_G,              KC_M,              LSFT_T(KC_N),      LCTL_T(KC_E),      LALT_T(KC_I),      LGUI_T(KC_A),      \
+LT(U_BUTTON,KC_Q), ALGR_T(KC_J),      KC_V,              KC_D,              KC_K,              KC_X,              KC_H,              KC_SLSH,           ALGR_T(KC_COMM),    LT(U_BUTTON,KC_DOT),\
+U_NP,              U_NP,              LT(U_MEDIA,KC_ESC),LT(U_NAV,KC_SPC),  LT(U_MOUSE,KC_TAB),LT(U_SYM,KC_ENT),  LT(U_NUM,KC_BSPC), LT(U_FUN,KC_DEL),  U_NP,              U_NP
