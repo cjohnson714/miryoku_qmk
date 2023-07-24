@@ -10,5 +10,5 @@ jobs:
     with:
       keyboard: '["lily58"]'
       alphas: '["qwerty"]'
-      nav: '["default"]'
+      nav: '["vi"]'
       layers: '["default"]'
